@@ -1,1 +1,1 @@
-awo!
+alert('This is a skeleton page');
